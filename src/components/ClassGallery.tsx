@@ -1,4 +1,3 @@
-
 import { useState, useRef, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -32,7 +31,7 @@ const ClassGallery = ({ onContinue }: ClassGalleryProps) => {
   useEffect(() => {
     const fetchGalleryData = async () => {
       try {
-        const response = await fetch('/gallery.json');
+        const response = await fetch('/xaxaxa/gallery.json');
         const data = await response.json();
         setItems(data.items);
       } catch (error) {
