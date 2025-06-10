@@ -36,7 +36,7 @@ const Credits = ({ onRestart }: CreditsProps) => {
           <Card className="glass-card">
             <CardContent className="p-6 space-y-4">
               <div className="text-3xl">💻</div>
-              <h3 className="text-xl font-semibold text-neon-green">MKDevelopment</h3>
+              <h3 className="text-xl font-semibold text-neon-green">mkdevelopment1312</h3>
               <p className="text-muted-foreground">
                 Za techniczne wsparcie i realizację wizji interaktywnej prezentacji
               </p>

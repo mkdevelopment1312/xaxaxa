@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mkdevelopment1312.github.io/instal",
+  "homepage": "https://mkdevelopment1312.github.io/xaxaxa",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
