@@ -102,12 +102,6 @@ const HolidayCalendar = ({ onContinue }: HolidayCalendarProps) => {
       title: "Dzień UFO",
       description: "Dzień poświęcony tajemniczym zjawiskom i poszukiwaniu życia pozaziemskiego.",
       emoji: "🛸"
-    },
-    {
-      date: "2025-06-25",
-      title: "Dzień CWELA",
-      description: "Dzień poświęcony cwelom i frajerom.",
-      emoji: "🤡"
     }
   ];
 
